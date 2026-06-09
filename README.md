@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá eu sou o Samuel Spalla!
+<img src="./images/laptop.svg" height="20" style="vertical-align: middle;" /> &nbsp; Eng. Software student and Developer<br />
 
-<!--
-**samuelspalla1/samuelspalla1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" height="18" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" height="18" />
+  <img src="https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" height="18" />
+  <img src="https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="18" />
+   <img src="https://img.shields.io/badge/typescript-20232A?style=flat-square&logo=typescript&logoColor=61DAFB" height="18" />
+  <img src="https://img.shields.io/badge/python-14354C?style=flat-square&logo=python&logoColor=white" height="18" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" height="18" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" height="18" />
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="18" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:samuelspalla1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samuelspalla" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
